@@ -40,8 +40,6 @@ var UrlShortener = function () {
   };
 
 
-
-
   return (
     <body class="page">
     <div class="container">
