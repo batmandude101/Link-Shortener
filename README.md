@@ -1,4 +1,7 @@
-# react-spring-boot-boilerplate
+# Link shortener project 
+
+Includes basic UI and functionality to convert valid URL and Redirect to shortened URL 
+
 
 Environment Essentials :-<br>
 Java 1.8 SDK<br>
